@@ -1,4 +1,4 @@
-# Analise-Exploratoria-de-Dados-de-Logistica
+# Análise Exploratória de Dados de Logística
 
 Análise foi feita com os dados da região do **Distrito Federal** fornecidos pela empresa **Loggi**, que é uma startup brasileira de tecnologia focada em **logística** avaliada em **US$ 1 Bilhão** e está no mercado desde 2013.
 
